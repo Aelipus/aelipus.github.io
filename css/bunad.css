@@ -7,6 +7,10 @@ body {
     padding: 0 0.9375rem;   
 	font-variant-ligatures: normal;
 	background-color: #8C4D40;
+	color: #ccc;
+}
+body:link {
+	color: #ccc;
 }
 
 img {
@@ -33,6 +37,7 @@ h1 {
     border: 1px solid #ccc;
 	box-shadow: 7px 5px 15px #6C3C32; 
 	background-color: white;
+	color: black;
 }
 
 .peikarar {
