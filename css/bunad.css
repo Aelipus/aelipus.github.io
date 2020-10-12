@@ -9,7 +9,7 @@ body {
 	background-color: #8C4D40;
 	color: #ccc;
 }
-body:link {
+a:link {
 	color: #ccc;
 }
 
