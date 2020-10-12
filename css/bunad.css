@@ -62,7 +62,7 @@ tr:hover {
   /* For mobile phones: */
   .hovudlut, .peikarar, .innhald {
     width:100%;
-	padding:0px;
+	padding:5px;
 	border: none;
   }
 }
