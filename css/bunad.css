@@ -23,18 +23,15 @@ img {
 h1 {
 	text-align: center;
 }
-table {
+table.sideknappar {
   border-collapse: collapse;
   width: 100%;
 }
 
-th, td {
+table.sideknappar th, table.sideknappar td {
   padding: 5px;
   text-align: left;
   border-bottom: 1px solid #ddd;
-}
-tr:hover {
-	background-color:#AF6151;
 }
 .innhald {
   width: 1000px;
@@ -73,4 +70,20 @@ tr:hover {
 
 .framsideknapp {
 	margin:1.5rem 0 0 1.5rem
+}
+table.fanor {
+  border-collapse: collapse;
+}
+table.fanor th, table.fanor td {
+  padding: 5px;
+  text-align: left;
+  border-right: 1px solid #ddd;
+  background-color: #ccc;
+  box-shadow: 7px 5px 15px #6C3C32;
+  width: 100px;
+  color: black;
+  margin: 0.9375rem;
+}
+td:hover {
+	background-color:#AF6151;
 }
