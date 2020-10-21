@@ -10,6 +10,7 @@ body {
     padding: 0 0.9375rem;   
 	font-variant-ligatures: normal;
 	background-color: #8C4D40;
+    background-image: linear-gradient(to bottom right,#8C4D40,#AF5851);
 	color: #ccc;
 }
 
