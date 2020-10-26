@@ -301,5 +301,29 @@
 				<name>Eiliv</name>
 			</author>
         </item>
+        <item>
+            <title>Blodpylsa med brunt sukker</title>
+            <guid>https://aelipus.github.io/uppskrifter/blodpylsa</guid>
+            <pubDate>Mon, 26 Oct 2020 20:24:00 GMT</pubDate>
+            <description>
+				&lt;img src="../bilete/blodpylsa.jpg" alt="Blodpylsa med surmjølk" style="width: 80%;"&gt;
+                &lt;h1&gt;Blodpylsa med brunt sukker&lt;/h1&gt;
+				&lt;p&gt;Av Eiliv, 26. oktober 2020&lt;/p&gt;
+				&lt;p&gt;Detta er ovlett mat som i grunnen ikkje tarv uppskrift, men um det kann hjelpa med matvalet skriv eg gjerne um det her.&lt;/p&gt;
+				&lt;p&gt;&lt;b&gt;Innhald&lt;/b&gt;&lt;/p&gt;
+				&lt;ul&gt;
+				    &lt;li&gt;Ei blodpylsa (Eg kauper frå Gilde.)&lt;/li&gt;
+					&lt;li&gt;Brunt sukker&lt;/li&gt;
+					&lt;li&gt;Smjør til steikjingi&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;p&gt;Skjer upp blodpylsa i skivor gjenom plasten. Tak av plasten fyrr steikjing.&lt;/p&gt;
+				&lt;p&gt;Verm smjør i steikjepanna og hav skivone med blodpylsa uppi når det er varmt.&lt;/p&gt;
+				&lt;p&gt;Steik skivone til dei er svarte på både sidor.&lt;/p&gt;
+				&lt;p&gt;Strø på sukker.&lt;/p&gt;
+            </description>
+			<author>
+				<name>Eiliv</name>
+			</author>
+        </item>
     </channel>
 </rss>
