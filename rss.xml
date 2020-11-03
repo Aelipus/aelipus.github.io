@@ -1,7 +1,7 @@
 <rss version="2.0">
     <!-- <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"> -->
     <channel>
-        <title>Slem høgnorsk mat</title>
+        <title>Slem karmat</title>
         <description>Snild mat laga av slemme høgnorske karar.</description>
         <link>https://aelipus.github.io/rss.xml</link>
         <!-- <atom:link href="https://aelipus.github.io/rss.xml" rel="self" type="application/rss+xml"/> -->
@@ -212,6 +212,9 @@
 				&lt;p&gt;Når panna er vorten varm nog og beikonen hev gjeve frå seg nog feitt til å steikja i, klekjer du tvo egg ned i panna. Du må kann henda skuva deim litt saman so dei held seg i braudskivestorleik.&lt;/p&gt;
 				&lt;p&gt;Rist braudet i braudristaren eller panna, hav på litt ketsjup og ein sylteagurk, so lauk, paprika, beikon og egg på toppen.&lt;/p&gt;
             </description>
+			<author>
+				<name>csy</name>
+			</author>
         </item>
         <item>
             <title>Myntete</title>
