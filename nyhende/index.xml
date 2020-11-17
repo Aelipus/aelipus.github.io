@@ -1,7 +1,7 @@
 <rss version="2.0">
     <!-- <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"> -->
     <channel>
-        <title>Slem høgnorsk mat</title>
+        <title>Slem karmat</title>
         <description>Snild mat laga av slemme høgnorske karar.</description>
         <link>https://aelipus.github.io/rss.xml</link>
         <!-- <atom:link href="https://aelipus.github.io/rss.xml" rel="self" type="application/rss+xml"/> -->
@@ -34,6 +34,9 @@
 				&lt;p&gt;Skjer upp den halve lauken i små bitar og hav det i hi panna. Knus so kvitlauken og hav i. Steik med oliveolja til alt er mykt upp og hev ei sterk lukt. Etter det hev du i høveleg mengd med tomatpuré (um lag det uppskrifti viser) og litt vatn. Lat det so verma seg på låg verme til pastaen er ferdug.&lt;/p&gt;
 				&lt;p&gt;Hell av vatnet og legg pastaen i hi panna i lag med lauken.&lt;/p&gt;
             </description>
+			<author>
+				<name>Eiliv</name>
+			</author>
         </item>
         <item>
             <title>Sjokoladekjeks</title>
@@ -56,6 +59,9 @@
 				&lt;p&gt;Legg deigen på ei steikjeplata med bakepapir. Skjer upp deigen i åtte like store stykke og flata ut til tunne kjeks. Prikk hòl i kjeksane med ein gaﬀel.&lt;/p&gt;
 				&lt;p&gt;Set i omnen på 200 gradar i upptil 15 min. Sjå jamnleg, for um dei ser ferduge ut, so er det mogelegt at dei er.&lt;/p&gt;
             </description>
+			<author>
+				<name>Eiliv</name>
+			</author>
         </item>
         <item>
             <title>Kili med kjøt</title>
@@ -106,6 +112,9 @@
 
                 &lt;p&gt;Hav alt saman i den store gryta, og hav i kilibaunor, hakka tomatar og mais (um du vil). Smak til med kryddi ein treng mykje kumen, ein god lut paprika, godt med salt og pepar, ingefær etter smak, og berre bitelite kanel.&lt;/p&gt;
             </description>
+			<author>
+				<name>csy</name>
+			</author>
         </item>
         <item>
             <title>Kjai, eller kryddste frå India</title>
@@ -142,6 +151,9 @@
 				&lt;p&gt;Til sist heller du kjaien att og fram millom kjetelen og koppen eller glaset ditt. Då vert han endå meir luftug og tjukk ;)&lt;/p&gt;
 				&lt;p&gt;Attåttanke: vert du hekta og vil ha kjai på ein varm dag, kann du i staden for å koka mjølki hava alt i ein ristebekar og skaka det heile godt med nokre isbitar.&lt;/p&gt;
             </description>
+			<author>
+				<name>csy</name>
+			</author>
         </item>
         <item>
             <title>Iskaﬃ</title>
@@ -165,6 +177,9 @@
 				&lt;p&gt;Iskaﬃen vert mykje betre med litt kanel, men hav ikkje i for mykje.&lt;/p&gt;
 				&lt;p&gt;Lat det kolna og hav i resten av mjølki. Set i kjøleskapet for å gjera iskaﬃen endå kaldare.&lt;/p&gt;
             </description>
+			<author>
+				<name>Eiliv</name>
+			</author>
         </item>
         <item>
             <title>Morgonsmjorbraud</title>
@@ -197,6 +212,9 @@
 				&lt;p&gt;Når panna er vorten varm nog og beikonen hev gjeve frå seg nog feitt til å steikja i, klekjer du tvo egg ned i panna. Du må kann henda skuva deim litt saman so dei held seg i braudskivestorleik.&lt;/p&gt;
 				&lt;p&gt;Rist braudet i braudristaren eller panna, hav på litt ketsjup og ein sylteagurk, so lauk, paprika, beikon og egg på toppen.&lt;/p&gt;
             </description>
+			<author>
+				<name>csy</name>
+			</author>
         </item>
         <item>
             <title>Myntete</title>
@@ -219,6 +237,96 @@
 				&lt;p&gt;Tak bladi av stylkjene og legg i kanna. Dei skal tekkja botnen, men mengdi hev ikkje mykje å segja.&lt;/p&gt;
 				&lt;p&gt;Hav i varmt vatn og lat standa til smaken er dregen or bladi. Tak ut bladi etter kvart når han er sterk nog.&lt;/p&gt;
             </description>
+			<author>
+				<name>Eiliv</name>
+			</author>
+        </item>
+        <item>
+            <title>Svelor</title>
+            <guid>https://aelipus.github.io/uppskrifter/svelor</guid>
+            <pubDate>Mon, 31 Aug 2020 13:39:00 GMT</pubDate>
+            <description>
+				&lt;img src="../bilete/svela.jpg" alt="Iskaﬃ på bord" style="width: 30%;"&gt;
+                &lt;h1&gt;Svelor&lt;/h1&gt;
+				&lt;p&gt;Av Eiliv, 31. august 2020&lt;/p&gt;
+				&lt;p&gt;Denne sveleuppskrifti er ikkje mi eigi, men den uppskrifti som vert nytta på ferjone i Møre og Raumsdal. Sokalla &lt;i&gt;MRF-svela&lt;/i&gt; eller &lt;i&gt;ferjesvela&lt;/i&gt;.&lt;/p&gt;
+				&lt;p&gt;Uppskrifti gjev umlag tjugo svelor.&lt;/p&gt;
+				&lt;p&gt;&lt;b&gt;Innhald&lt;/b&gt;&lt;/p&gt;
+				&lt;ul&gt;
+				    &lt;li&gt;Tvo dL sukker&lt;/li&gt;
+					&lt;li&gt;Ein L surmjølk&lt;/li&gt;
+					&lt;li&gt;Um lag ein dL kveitemjøl&lt;/li&gt;
+					&lt;li&gt;Tvo teskeider hornsalt (her hev den upphavlege éi skeid hornsalt og éi skeid natron.)&lt;/li&gt;
+					&lt;li&gt;75 gram smjør (margarin)&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;p&gt;Smelt smjøret.&lt;/p&gt;
+				&lt;p&gt;Blanda i hop sukker, hornsalt og eggi.&lt;/p&gt;
+				&lt;p&gt;Blanda inn surmjølki og hav so i mjølet&lt;/p&gt;
+				&lt;p&gt;Hav i det smelta smjøret, blanda og lat svella i 20 minutt.&lt;/p&gt;
+				&lt;p&gt;Steik dei på ei smurd steikjehella eller -panna på millomhøg verme (7 eller 500).&lt;/p&gt;
+            </description>
+			<author>
+				<name>Eiliv</name>
+			</author>
+        </item>
+        <item>
+            <title>Gryta med grønsaker og pylsor</title>
+            <guid>https://aelipus.github.io/uppskrifter/gryta</guid>
+            <pubDate>Mon, 19 Oct 2020 16:20:00 GMT</pubDate>
+            <description>
+                &lt;h1&gt;Gryta med grønsaker og pylsor&lt;/h1&gt;
+				&lt;p&gt;Av Eiliv, 19. oktober 2020&lt;/p&gt;
+				&lt;p&gt;Detta er ei lett og god gryta laga med grønsaker, pylsor og brunost. Ho hev ei rund «brunsausvoren» smak og gjev ei måltid som mettar.&lt;/p&gt;
+				&lt;p&gt;Uppskrifti gjev 2,5 til 3 liter med gryta.&lt;/p&gt;
+				&lt;p&gt;&lt;b&gt;Innhald&lt;/b&gt;&lt;/p&gt;
+				&lt;ul&gt;
+				    &lt;li&gt;Ei stor gulrot, ellr tvo mindre&lt;/li&gt;
+				    &lt;li&gt;2 jordeple&lt;/li&gt;
+					&lt;li&gt;2 grillpylsor&lt;/li&gt;
+					&lt;li&gt;Um lag 1/8 kålhovud&lt;/li&gt;
+					&lt;li&gt;Salt&lt;/li&gt;
+					&lt;li&gt;Pipar&lt;/li&gt;
+					&lt;li&gt;Brunost&lt;/li&gt;
+					&lt;li&gt;Vatn&lt;/li&gt;
+					Krydd å smaka til med:
+					&lt;li&gt;Kvitlaukspulver&lt;/li&gt;
+					&lt;li&gt;Paprika&lt;/li&gt;
+					&lt;li&gt;Bergmynta&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;p&gt;Skjer upp jordepli, gulroti og pylsone i små terningar og hav i panna.&lt;/p&gt;
+				&lt;p&gt;Skjer upp kålen, anten i små eller store bitar, og hav uppi.&lt;/p&gt;
+				&lt;p&gt;Fyll på med vatn og lat sjoda. Um det syd burt hev du i meir.&lt;/p&gt;
+				&lt;p&gt;Smak til med salt, pipar. Nytta gjerna andre krydd, som kvitlaukspulver og paprika, eller vanleg kvitlauk um du hev det.&lt;/p&gt;
+				&lt;p&gt;Eg plar hava i ei teskeid med tomatpuré, men det er ikkje naudsynt.&lt;/p&gt;
+				&lt;p&gt;Når gulroti og jordepli er mjuke hev du i nokre skivor med brunost og rører det ut. Hugsa å smaka til!&lt;/p&gt;
+            </description>
+			<author>
+				<name>Eiliv</name>
+			</author>
+        </item>
+        <item>
+            <title>Blodpylsa med brunt sukker</title>
+            <guid>https://aelipus.github.io/uppskrifter/blodpylsa</guid>
+            <pubDate>Mon, 26 Oct 2020 20:24:00 GMT</pubDate>
+            <description>
+				&lt;img src="../bilete/blodpylsa.jpg" alt="Blodpylsa med surmjølk" style="width: 80%;"&gt;
+                &lt;h1&gt;Blodpylsa med brunt sukker&lt;/h1&gt;
+				&lt;p&gt;Av Eiliv, 26. oktober 2020&lt;/p&gt;
+				&lt;p&gt;Detta er ovlett mat som i grunnen ikkje tarv uppskrift, men um det kann hjelpa med matvalet skriv eg gjerne um det her.&lt;/p&gt;
+				&lt;p&gt;&lt;b&gt;Innhald&lt;/b&gt;&lt;/p&gt;
+				&lt;ul&gt;
+				    &lt;li&gt;Ei blodpylsa (Eg kauper frå Gilde.)&lt;/li&gt;
+					&lt;li&gt;Brunt sukker&lt;/li&gt;
+					&lt;li&gt;Smjør til steikjingi&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;p&gt;Skjer upp blodpylsa i skivor gjenom plasten. Tak av plasten fyrr steikjing.&lt;/p&gt;
+				&lt;p&gt;Verm smjør i steikjepanna og hav skivone med blodpylsa uppi når det er varmt.&lt;/p&gt;
+				&lt;p&gt;Steik skivone til dei er svarte på både sidor.&lt;/p&gt;
+				&lt;p&gt;Strøy på sukker.&lt;/p&gt;
+            </description>
+			<author>
+				<name>Eiliv</name>
+			</author>
         </item>
     </channel>
 </rss>
